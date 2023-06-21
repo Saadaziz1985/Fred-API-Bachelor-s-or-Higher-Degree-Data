@@ -1,4 +1,4 @@
-# Bachelor's or Higher Degree Data Through Fred API
+# Bachelor's or Higher Degree Data of USA States, County and municipalities Through Fred API
 
 The provided Python code is developed to extract data from the Federal Reserve Economic Data (FRED) regarding Bachelor's or Higher degree education in the United States of America, specifically at the state and county levels. The code generates data based on the current date and is available up until the year 2021. Everyone can use attached code using the FRED API to extract the latest data.
 
